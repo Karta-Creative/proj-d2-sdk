@@ -1,0 +1,12 @@
+{
+  "name": "D2-development",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "D2": {
+        "$path": "src/D2.luau"
+      }
+    }
+  }
+}
