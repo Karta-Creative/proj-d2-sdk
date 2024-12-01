@@ -1,12 +1,12 @@
 title = "D2 SDK"
-gitRepoUrl = "https://github.com/karta-creative/d2-sdk"
+gitRepoUrl = "https://github.com/karta-creative/proj-d2-sdk"
 
 gitSourceBranch = "main"
 changelog = false
 
 [docusaurus]
 organizationName = "karta-creative"
-projectName = "d2-sdk"
+projectName = "proj-d2-sdk"
 url = "https://webserver-blue-log-4719.fly.dev"
 baseUrl = "/d2-sdk"
 tagline = "Active life, awesome loot."
