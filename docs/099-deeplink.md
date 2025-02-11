@@ -1,3 +1,8 @@
+---
+title: Deep-linking
+id: deep-linking
+---
+
 # D2 -> Roblox via deep links
 
 In addition to providing the D2 SDK, we've also integrated Roblox' deep linking system into our app. The short version is that we can provide users entering your Roblox experience with some data from the D2 app, you can then use that data to provide the user a special D2 item, currency or similar. 
