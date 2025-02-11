@@ -1,8 +1,7 @@
-# .github/workflows/publish-docs.yml
 name: publish-docs
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
 jobs:
   status:
     runs-on: ubuntu-latest
