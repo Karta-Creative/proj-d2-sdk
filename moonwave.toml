@@ -1,4 +1,4 @@
-title = "D2 SDK"
+title = "D2 for Developers"
 gitRepoUrl = "https://github.com/karta-creative/proj-d2-sdk"
 
 gitSourceBranch = "main"
@@ -7,12 +7,12 @@ changelog = false
 [docusaurus]
 organizationName = "karta-creative"
 projectName = "proj-d2-sdk"
-url = "https://webserver-blue-log-4719.fly.dev"
-baseUrl = "/d2-sdk"
+url = "https://docs.d2health.club"
+baseUrl = "/"
 tagline = "Active life, awesome loot."
 
 [footer]
-copyright = "Copyright © 2024 Karta Creative Ltd. Built with Moonwave and Docusaurus"
+copyright = "Copyright © 2025 Karta Creative Ltd. Built with Moonwave and Docusaurus"
 
 [home]
 enabled = true

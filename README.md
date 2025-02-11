@@ -1,9 +1,11 @@
-# D2 SDK
+# D2 for Developers
 Active life, awesome loot.
 
-This repository contains the D2 SDK, a Roblox module that allows you to create your own games using the D2 backend.
+This repository contains the D2 SDK, its documentation and general information about D2 for Developers. 
 
-The docs are available at https://webserver-blue-log-4719.fly.dev/d2-sdk.
+The D2 SDK is a Roblox module that allows you to create your own games using the D2 backend.
+
+The docs are available at https://docs.d2health.club.
 
 **Note: You have to sign in with your @karta.game Google account to view the docs.**
 
