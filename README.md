@@ -46,11 +46,3 @@ The docs are published to a Fly.io app. Please make sure to have the `fly` CLI i
 rojo build -o ".moonwave/static/D2.rbxm"
 ```
 
-#### Deploying the docs
-Make sure you're at the root of the repository and then run:
-```bash
-moonwave build --out-dir webserver/docs
-cd webserver
-fly deploy
-```
-
