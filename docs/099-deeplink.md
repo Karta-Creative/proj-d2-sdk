@@ -36,15 +36,13 @@ local function parseSourceFromLaunchData(input: any): string?
 	-- The key is the first part of the string (source)
 	local key = parts[1]
 
-	-- The value is the rest of the string after the key and the underscore (source_)
-	local value = input:sub(#key + 2)
-
 	-- If the key is not source, return
 	if key ~= "source" then
 		return nil
 	end
 
-	return value
+	-- The value is the rest of the string after the key and the underscore (source_)
+	return input:sub(#key + 2)
 end
 
 Players.PlayerAdded:Connect(function(player: Player)
