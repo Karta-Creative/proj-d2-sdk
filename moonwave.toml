@@ -16,3 +16,8 @@ copyright = "Copyright © 2025 Karta Creative Ltd. Built with Moonwave and Docus
 
 [home]
 enabled = true
+
+[[navbar.items]]
+href = "https://d2health.club"
+label = "Website"
+position = "right"

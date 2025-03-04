@@ -51,3 +51,13 @@
     text-shadow: 0px 2px 4px rgb(0, 0, 0);
     color: var(--ifm-color-gray-100);
 }
+
+.download {
+    display: flex;
+    flex-flow: row;
+    gap: 0.5rem;
+}
+
+.download img {
+    height: 2rem;
+}
